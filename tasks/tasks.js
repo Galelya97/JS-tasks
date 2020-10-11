@@ -55,7 +55,5 @@ function filterArray(arg1, arg2) {
     return newArr;
 }
 
-
-
 const mixedArray = [3,13,74,14,66,15,22,4];
 console.log(filterArray(mixedArray, isEven));

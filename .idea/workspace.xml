@@ -11,7 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed149b61-1740-409d-a2da-a16f8b311c0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modal/modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modal/modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modal/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-slider/slider-1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-slider/slider-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-slider/slider-3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/tasks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +40,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.nvm/versions/node/v12.18.0/lib/node_modules/prettier" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="wsl://UBUNTU2004@/home/galina/.nvm/versions/node/v12.18.0/bin/node" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/home/galina/.nvm/versions/node/v12.18.0/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-20.04\home\galina\code\untitled\tasks" />
+      <recent name="\\wsl$\Ubuntu-20.04\home\galina\code\untitled\simple-slider" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,7 +62,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602238741537</updated>
       <workItem from="1602238742589" duration="208000" />
-      <workItem from="1602238953317" duration="11945000" />
+      <workItem from="1602238953317" duration="20901000" />
+      <workItem from="1602307494747" duration="5633000" />
     </task>
     <servers />
   </component>
@@ -59,11 +80,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1174" y="233" key="FileChooserDialogImpl" timestamp="1602238950751">
+    <state x="1200" y="354" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602308875521">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="1174" y="233" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1602238950751" />
+    <state x="1200" y="354" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1602308875521" />
+    <state x="1373" y="239" key="FileChooserDialogImpl" timestamp="1602309943680">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1373" y="239" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1602309943680" />
+    <state x="616" y="160" key="SettingsEditor" timestamp="1602309976545">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="616" y="160" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1602309976545" />
   </component>
 </project>
